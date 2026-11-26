@@ -1,2 +1,3 @@
-# Georgia-State-University-Shodan-Exposure
-Internet exposed IT infrastructure of Georgia State University via Shodan searches
+This repository exposes Georgia State University insecure exposure to public Internet using the Shodan search engine.
+
+This project is an exercise of Free Speech under the US Constitution First Amendment.
